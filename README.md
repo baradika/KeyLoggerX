@@ -14,7 +14,9 @@
    ```bash
    git clone https://github.com/baradika/KeyLoggerX.git
 2. Install the required dependencies
+   ```bash
    pip install pynput
-3. Run the Keylogger
+4. Run the Keylogger
+   ```bash
    python3 keylogger.py
 
