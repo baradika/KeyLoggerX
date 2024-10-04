@@ -22,7 +22,3 @@
 
 ## Ethical Considerations
 KeyLoggerX should be used with ethical and legal considerations in mind. Ensure that you obtain the necessary permissions before using this tool to record user activity. This project is intended for educational purposes and security testing only.
-
-## Acknowledgments
-pynput for the keyboard monitoring library.
-Inspired by various open-source security tools.
